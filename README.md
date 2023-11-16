@@ -1,3 +1,25 @@
+﻿<h1 align="center"> ReactJS One page travel agency website landing page</h1>
+
+## Description
+
+One page travel agency website landing page made using ReactJs on JavaScript.
+
+<p>
+<a href="https://vinokurov1721-reactjs-site-travel.netlify.app/"> link to site preview </a>
+</p>
+<p>
+The site was made according to the Figma template
+</p>
+<p>
+<a href="https://www.figma.com/file/QS4CR4oNTmHsJRWiP5bEJv/Travel-Website-(Community)?type=design&node-id=0-1&mode=design&t=AWo14CvxLiM2TtHn-0"> link to used Figma template </a>	
+</p>
+
+### Final site layout
+
+<p>Final work preview</p>
+<a href="https://vinokurov1721-reactjs-site-travel.netlify.app/"> 
+<img src="./readme_assets/extra-small.png" width="70%"></a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
