@@ -18,7 +18,7 @@ The site was made according to the Figma template
 
 <p>Final work preview</p>
 <a href="https://vinokurov1721-reactjs-site-travel.netlify.app/"> 
-<img src="./readme_assets/extra-small.png" width="70%"></a>
+<img src="./readme_assets/extra-small.jpg" width="70%"></a>
 
 # Getting Started with Create React App
 
